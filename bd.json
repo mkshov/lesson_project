@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "64df",
+      "image": " https://danielhazard.netlify.app/assets/HomePage/carousel-img_4.jpg",
+      "description": "Good suit men free shop poka poka",
+      "first_price": "1500",
+      "second_price": "10000"
+    },
+    {
+      "id": "007f",
+      "image": "sjdfjk",
+      "description": "kjhdjkfjk",
+      "first_price": "kjhsdjfkjk",
+      "second_price": "kkjsdfkjsdjkf"
+    }
+  ]
+}
